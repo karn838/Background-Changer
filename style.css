@@ -1,0 +1,31 @@
+html{
+    margin: 50px;
+    
+}
+span{
+    display: block;
+}
+.canvas{
+    margin: auto;
+    text-align: center;
+    width: 80%;
+}
+.button{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    border: 2px;
+}
+#red{
+    background-color: red;
+
+}
+#blue{
+    background-color: blue;
+}
+#green{
+    background-color: green;
+}
+#black{
+    background-color: black;
+}
